@@ -1,4 +1,4 @@
-🏆 Job Application Tracker  
+# 🏆 Job Application Tracker  
 
 ![Job Application Tracker](1.png)  
 
