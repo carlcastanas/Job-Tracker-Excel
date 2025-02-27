@@ -9,6 +9,12 @@ Looking for a job can be overwhelming, but staying organized can make a huge dif
 ✅ Stay consistent with follow-ups  
 ✅ Analyze trends in your job search  
 
+## 📥 Download the Tracker  
+
+You can download the Excel file here:  
+
+📂 [devph.xlsx](devph.xlsx)  
+
 ## 📌 Why is this helpful?  
 
 - **Saves Time** – No more guessing which companies you’ve applied to.  
